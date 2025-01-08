@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleApplication {
 
 
-    //comments test commit
+    //comments test commit2
     public static void main(String[] args) {
         SpringApplication.run(SampleApplication.class, args);
     }
